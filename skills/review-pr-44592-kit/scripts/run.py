@@ -1,2 +1,2 @@
 #!/usr/bin/env python3
-print("review kit v1")
+print("review kit v2")
